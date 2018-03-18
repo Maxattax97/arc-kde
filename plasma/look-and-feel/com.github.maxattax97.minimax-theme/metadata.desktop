@@ -1,0 +1,21 @@
+[Desktop Entry]
+Comment=Minimax Style
+
+Encoding=UTF-8
+Keywords=Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;
+Name=Minimax
+
+Type=Service
+
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KDE-ParentApp=
+X-KDE-PluginInfo-Author=Max O'Cull
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Email=
+X-KDE-PluginInfo-License=GPLv2
+X-KDE-PluginInfo-Name=com.github.maxattax97.minimax-theme
+X-KDE-PluginInfo-Version=
+X-KDE-PluginInfo-Website=https://github.com/maxattax97/minimax-theme
+X-KDE-fallbackPackage=org.kde.breeze.desktop
+X-Plasma-MainScript=defaults
+X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1167638,kns://plasma-themes.knsrc/api.kde-look.org/1167639,kns://aurorae.knsrc/api.kde-look.org/1167637,kns://icons.knsrc/api.kde-look.org/1166289

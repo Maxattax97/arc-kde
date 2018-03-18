@@ -1,0 +1,18 @@
+[Desktop Entry]
+Name=Minimax
+
+X-KDE-PluginInfo-Author=Max O'Cull
+X-KDE-PluginInfo-Email=maxattax97@gmail.com
+X-KDE-PluginInfo-Name=Minimax
+X-KDE-PluginInfo-Version=0.0.1
+X-KDE-PluginInfo-Website=https://github.com/maxattax97/minimax-theme
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-License=CCPL:by-sa
+X-KDE-PluginInfo-EnabledByDefault=true
+
+[ContrastEffect]
+enabled=false
+contrast=0.2
+intensity=0.4
+saturation=1.7

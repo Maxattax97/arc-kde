@@ -1,0 +1,21 @@
+[kcminputrc][Mouse]
+cursorTheme=breeze_cursors
+
+[kdeglobals][General]
+ColorScheme=Arc Dark
+
+[kdeglobals][KDE]
+widgetStyle=kvantum
+
+[kwinrc][DesktopSwitcher]
+LayoutName=org.kde.breeze.desktop
+
+[kwinrc][WindowSwitcher]
+LayoutName=org.kde.breeze.desktop
+
+[kwinrc][org.kde.kdecoration2]
+library=org.kde.breeze
+theme=__aurorae__svg__Arc-Dark
+
+[plasmarc][Theme]
+name=Arc-Dark
